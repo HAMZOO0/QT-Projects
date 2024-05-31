@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec"/>
+    <qresource prefix="/new/prefix1">
+        <file>img/COPY.jpg</file>
+        <file>img/download.jpg</file>
+        <file>img/file.jpg</file>
+        <file>img/new file.jpg</file>
+        <file>img/open file.png</file>
+        <file>img/PAST.webp</file>
+        <file>img/save.png</file>
+        <file>img/download.png</file>
+        <file>img/cut.png</file>
+    </qresource>
+</RCC>
