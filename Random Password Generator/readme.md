@@ -26,5 +26,5 @@ The main window of the application contains:
 - A plain text edit area to display the generated password.
 
 ---
-![image](https://github.com/HAMZOO0/QT-Projects/assets/98114762/cc66c3a4-cc73-4604-856f-6ac75d1b6069)
+![image](https://github.com/HAMZOO0/QT-Projects/assets/98114762/d0a5f085-9570-44d3-abb3-19532299395a)
 
